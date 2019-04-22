@@ -1,0 +1,21 @@
+body {
+  font-family: 'Nunito';
+  font-size: 16px;
+}
+
+.movie {
+  color: green;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+  font-size: 20px;
+  line-height: 1.75em;
+}
+
+.movieDiv {
+  display: inline;
+}
+
+ul {
+  list-style-type: none;
+}
